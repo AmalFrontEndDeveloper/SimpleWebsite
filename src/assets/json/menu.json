@@ -1,0 +1,11 @@
+{
+    "message":"Sucess",
+    "data":{
+        "menulist": [
+            {"name":"Home","isActive":true},
+            {"name":"Subscription","isActive":false},
+            {"name":"About Us","isActive":false},
+            {"name":"Contact Us","isActive":false}
+        ]
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "message":"Sucess",
+    "data":{
+        "serviceinfo": [
+            {"title":"Flat tyre fixing ","content":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, consectetur.","image":"s4.jpg"},
+            {"title":"Battery jumpStart ","content":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, consectetur.","image":"s4.jpg"},
+            {"title":"Emergency fuel ","content":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, consectetur.","image":"s4.jpg"},
+            {"title":"Key lock assistance ","content":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, consectetur.","image":"s4.jpg"}
+        ]
+    }
+}

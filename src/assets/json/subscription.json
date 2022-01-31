@@ -1,0 +1,10 @@
+{
+    "message":"Sucess",
+    "data":{
+        "subscriptioninfo": [
+            {"title":"Car Basic","content":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, consectetur."},
+            {"title":"Car Pro","content":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, consectetur."},
+            {"title":"Car Pro","content":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, consectetur."}
+        ]
+    }
+}
